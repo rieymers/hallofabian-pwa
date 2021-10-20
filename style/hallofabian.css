@@ -1,0 +1,57 @@
+ /* Style the navigation menu */
+ .topnav {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Hide the links inside the navigation menu (except for logo/home) */
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  /* Style navigation menu links */
+  .topnav a {
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  #myLinks{
+      position: relative;
+  }
+
+  #menu-item{
+    text-align: center;   
+    padding: 8px;
+  }
+  
+  /* Style the hamburger menu */
+  .topnav a.icon {
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 0;
+  }
+  
+  /* Style the active link (or home/logo) */
+  .active {
+    color: #123456;
+  } 
+
+  .no-ma{
+      margin: 0;
+      padding: 0;
+  }
+
+
+  .card{
+    width: 100%;
+    height: 30rem;
+    border: #cfcfcf 1px solid;
+    border-radius: 1rem;
+  }
+
+  .key-white{
+      color:#cfcfcf;
+  }
+  

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="design_one.svg"
+   width="375"
+   height="812"
+   viewBox="0 0 99.218748 214.84167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <defs
+     id="defs2">
+    <rect
+       id="rect857"
+       height="13.898015"
+       width="56.126601"
+       y="32.874152"
+       x="10.958051" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="24"
+     inkscape:window-x="-8"
+     inkscape:window-height="1385"
+     inkscape:window-width="2560"
+     inkscape:snap-page="true"
+     units="px"
+     id="base"
+     pagecolor="#1e1e1e"
+     bordercolor="#ff0066"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="409.38063"
+     inkscape:cy="393.7272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:pagecheckerboard="false">
+    <sodipodi:guide
+       id="guide841"
+       orientation="1,0"
+       position="99.218748,0" />
+    <sodipodi:guide
+       id="guide843"
+       orientation="1,0"
+       position="125.67709,6.6221016e-06" />
+    <sodipodi:guide
+       id="guide845"
+       orientation="0,-1"
+       position="99.218748,6.6221016e-06" />
+    <sodipodi:guide
+       id="guide847"
+       orientation="0,-1"
+       position="99.218748,-26.458322" />
+    <sodipodi:guide
+       id="guide851"
+       orientation="0,-1"
+       position="99.218748,214.84167" />
+    <sodipodi:guide
+       id="guide853"
+       orientation="0,-1"
+       position="99.218748,-241.3" />
+    <sodipodi:guide
+       id="guide948"
+       orientation="0,-1"
+       position="3.6704223,23.346244" />
+    <sodipodi:guide
+       id="guide956"
+       orientation="1,0"
+       position="6.3499999,208.49167" />
+    <sodipodi:guide
+       id="guide958"
+       orientation="1,0"
+       position="92.86875,208.49167" />
+    <sodipodi:guide
+       id="guide960"
+       orientation="0,-1"
+       position="6.3499998,208.49167" />
+    <sodipodi:guide
+       id="guide972"
+       orientation="1,0"
+       position="224.89584,214.84167" />
+    <sodipodi:guide
+       id="guide984"
+       orientation="1,0"
+       position="132.0271,208.49167" />
+    <sodipodi:guide
+       id="guide986"
+       orientation="1,0"
+       position="218.54583,208.49167" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fabian Kuehne</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="screen_base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="0"
+       x="0"
+       height="214.84166"
+       width="99.21875"
+       id="rect831"
+       style="fill:#f6f5f4;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:bevel;fill-opacity:1" />
+    <rect
+       style="fill:#000f15;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect835"
+       width="99.21875"
+       height="214.84166"
+       x="0"
+       y="241.29999" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect837"
+       width="99.21875"
+       height="214.84166"
+       x="125.67709"
+       y="0" />
+    <rect
+       y="241.29999"
+       x="125.67709"
+       height="214.84166"
+       width="99.21875"
+       id="rect849"
+       style="fill:#000f15;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:bevel" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect857);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text855"
+       xml:space="preserve" />
+  </g>
+  <g
+     inkscape:label="elements"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.51842px;line-height:1.25;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold';fill:#364a4f;fill-opacity:1;stroke:none;stroke-width:0.137961;"
+       x="6.1516571"
+       y="15.827705"
+       id="text925"><tspan
+         sodipodi:role="line"
+         id="tspan923"
+         x="6.1516571"
+         y="15.827705"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold';fill:#364a4f;fill-opacity:1;stroke-width:0.137961;">Fabian</tspan></text>
+    <text
+       id="text942"
+       y="10.554505"
+       x="6.1516571"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.51842px;line-height:1.25;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif';fill:#364a4f;fill-opacity:1;stroke:none;stroke-width:0.137961;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif';fill:#364a4f;fill-opacity:1;stroke-width:0.137961;"
+         y="10.554505"
+         x="6.1516571"
+         id="tspan940"
+         sodipodi:role="line">hallo</tspan></text>
+    <path
+       id="path968"
+       d="M 85.586487,15.174402 H 92.48455"
+       style="fill:none;stroke:#364a4f;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#364a4f;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.586487,12.768976 H 92.48455"
+       id="path970" />
+    <g
+       transform="translate(-3.5058625e-6,-13.229167)"
+       id="g1026">
+      <rect
+         style="fill:#364a4f;fill-opacity:1;stroke:none;stroke-width:0.972839;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect974"
+         width="99.21875"
+         height="93.945923"
+         x="125.67709"
+         y="13.229163"
+         ry="0" />
+      <rect
+         ry="7.0826459"
+         y="91.940712"
+         x="125.67709"
+         height="29.132387"
+         width="99.21875"
+         id="rect976"
+         style="fill:#364a4f;fill-opacity:1;stroke:none;stroke-width:0.549143;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text990"
+       y="15.827705"
+       x="131.87598"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.51842px;line-height:1.25;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold';fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.137961;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold';fill:#f6f5f4;fill-opacity:1;stroke-width:0.137961;"
+         y="15.827705"
+         x="131.87598"
+         id="tspan988"
+         sodipodi:role="line">Fabian</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.51842px;line-height:1.25;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif';fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.137961;"
+       x="131.87598"
+       y="10.554505"
+       id="text994"><tspan
+         sodipodi:role="line"
+         id="tspan992"
+         x="131.87598"
+         y="10.554505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif';fill:#f6f5f4;fill-opacity:1;stroke-width:0.137961;">hallo</tspan></text>
+    <text
+       id="text998"
+       y="74.780479"
+       x="158.33252"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke-width:0.264583"
+         y="74.780479"
+         x="158.33252"
+         id="tspan996"
+         sodipodi:role="line">ABOUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="152.29227"
+       y="96.572922"
+       id="text1002"><tspan
+         sodipodi:role="line"
+         id="tspan1000"
+         x="152.29227"
+         y="96.572922"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke-width:0.264583">CONTACT</tspan></text>
+    <rect
+       ry="3.2600446"
+       rx="3.2600446"
+       y="41.071728"
+       x="133.08102"
+       height="16.971615"
+       width="84.410889"
+       id="rect1020"
+       style="fill:#51686d;fill-opacity:1;stroke:none;stroke-width:0.987862;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.31218"
+       y="52.988041"
+       id="text1010"><tspan
+         sodipodi:role="line"
+         id="tspan1008"
+         x="160.31218"
+         y="52.988041"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#f6f5f4;fill-opacity:1;stroke-width:0.264583">WORK</tspan></text>
+    <g
+       style="stroke:#f6f5f4;stroke-width:1.000125;stroke-miterlimit:4;stroke-dasharray:none;fill:#f6f5f4;fill-opacity:1;stroke-opacity:1"
+       transform="translate(126.1141)"
+       inkscape:transform-center-y="-12.895755"
+       inkscape:transform-center-x="-1.3363477"
+       id="g1018">
+      <path
+         id="path1012"
+         d="m 87.064407,11.482742 4.877667,4.877668"
+         style="fill:#f6f5f4;fill-opacity:1;stroke:#f6f5f4;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#f6f5f4;fill-opacity:1;stroke:#f6f5f4;stroke-width:1.00013;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 91.942074,11.482742 87.064407,16.36041"
+         id="path1014" />
+    </g>
+    <rect
+       style="fill:#364a4f;fill-opacity:1;stroke:none;stroke-width:2.42768;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1030"
+       width="84.410889"
+       height="102.49786"
+       x="7.4083333"
+       y="83.176804"
+       rx="3.175"
+       ry="3.175" />
+    <text
+       id="text1036"
+       y="40.57592"
+       x="7.1221867"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.82175px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145543"
+       xml:space="preserve"><tspan
+         id="tspan1042"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';stroke-width:0.145543"
+         y="40.57592"
+         x="7.1221867"
+         sodipodi:role="line">I design Phisical Products</tspan><tspan
+         id="tspan1046"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';stroke-width:0.145543"
+         y="47.853107"
+         x="7.1221867"
+         sodipodi:role="line">and develop UX / UI Experiences.</tspan><tspan
+         id="tspan1048"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';stroke-width:0.145543"
+         y="55.130295"
+         x="7.1221867"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1052"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';stroke-width:0.145543"
+         y="62.407482"
+         x="7.1221867"
+         sodipodi:role="line">Scroll down to find out more</tspan><tspan
+         id="tspan1050"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';stroke-width:0.145543"
+         y="69.684669"
+         x="7.1221867"
+         sodipodi:role="line">about my work!</tspan></text>
+    <g
+       id="g1058"
+       transform="translate(122.14217,-13.229167)">
+      <rect
+         ry="0"
+         y="13.229163"
+         x="141.17873"
+         height="214.84166"
+         width="99.21875"
+         id="rect1054"
+         style="fill:#12191b;fill-opacity:1;stroke:none;stroke-width:1.47116;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.38037px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.134508"
+       x="10.353522"
+       y="168.69125"
+       id="text1070"><tspan
+         sodipodi:role="line"
+         x="10.353522"
+         y="168.69125"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';fill:#ffffff;stroke-width:0.134508"
+         id="tspan1068">Yashica Electro 35 FF</tspan><tspan
+         id="tspan1086"
+         sodipodi:role="line"
+         x="10.353522"
+         y="175.41672"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#ffffff;stroke-width:0.134508">Industrial Design and rendering</tspan><tspan
+         id="tspan1088"
+         sodipodi:role="line"
+         x="10.353522"
+         y="182.14218"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';fill:#ffffff;stroke-width:0.134508">of a modern classic.</tspan></text>
+  </g>
+  <g
+     inkscape:label="texts"
+     id="layer2"
+     inkscape:groupmode="layer" />
+</svg>
