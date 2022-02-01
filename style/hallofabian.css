@@ -1,57 +1,72 @@
- /* Style the navigation menu */
- .topnav {
-    overflow: hidden;
-    position: relative;
-  }
-  
-  /* Hide the links inside the navigation menu (except for logo/home) */
-  .topnav #myLinks {
-    display: none;
-  }
-  
-  /* Style navigation menu links */
-  .topnav a {
-    padding: 14px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  #myLinks{
-      position: relative;
-  }
+/* ibm-plex-sans-condensed-300 - latin */
+@font-face {
+  font-family: 'IBM Plex Sans Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/ibm-plex-sans-condensed-v11-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/ibm-plex-sans-condensed-v11-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
-  #menu-item{
-    text-align: center;   
-    padding: 8px;
-  }
-  
-  /* Style the hamburger menu */
-  .topnav a.icon {
-    display: block;
-    position: absolute;
-    right: 0px;
-    top: 0;
-  }
-  
-  /* Style the active link (or home/logo) */
-  .active {
-    color: #123456;
-  } 
+/* ibm-plex-sans-condensed-500 - latin */
+@font-face {
+  font-family: 'IBM Plex Sans Condensed';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/ibm-plex-sans-condensed-v11-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/ibm-plex-sans-condensed-v11-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
-  .no-ma{
-      margin: 0;
-      padding: 0;
-  }
+p{
+  font-family: 'IBM-Plex-Sans-Condensed-300', 'Helvetica', sans-serif;
+}
 
+a{
+  text-decoration: none;
+}
 
-  .card{
-    width: 100%;
-    height: 30rem;
-    border: #cfcfcf 1px solid;
-    border-radius: 1rem;
-  }
+/* NAVBAR BEGIN */
 
-  .key-white{
-      color:#cfcfcf;
-  }
-  
+.nav-container{
+  position: fixed;
+  display: flex;
+  margin: auto;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding:0 10px 0 10px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 20px;
+  bottom: 4vh;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.inline-itm{
+  display: flex;
+  margin: 5px;
+  padding: 0 12px 4px 12px;
+  border-radius: 20px;
+}
+
+.non-active{
+  filter: opacity(25%);
+}
+
+.non-active:hover, .non-active:active{
+  filter: opacity(100%);
+}
+
+.inline-itm, img{
+  max-height: 44px;
+}
+
+.label-icon{
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+/* NAVBAR END */
+
