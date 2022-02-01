@@ -1,3 +1,22 @@
+html, body{
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+}
+
+.orange{
+  color: #f07948;
+}
+
+.col-fon{
+  color: rgb(56, 56, 56);
+}
+
 /* ibm-plex-sans-condensed-300 - latin */
 @font-face {
   font-family: 'IBM Plex Sans Condensed';
@@ -18,8 +37,24 @@
        url('../fonts/ibm-plex-sans-condensed-v11-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+h1{
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica', sans-serif;
+  font-weight: 300;
+}
+
+h3{
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica', sans-serif;
+  font-weight: 300;
+}
+
+h4{
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica', sans-serif;
+  font-weight: 300;
+}
+
 p{
-  font-family: 'IBM-Plex-Sans-Condensed-300', 'Helvetica', sans-serif;
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica', sans-serif;
+  font-weight: 300;
 }
 
 a{
@@ -32,6 +67,7 @@ a{
   position: fixed;
   display: flex;
   margin: auto;
+  min-width: 85vw;
   left: 50%;
   transform: translate(-50%, 0);
   padding:0 10px 0 10px;
@@ -40,6 +76,7 @@ a{
   border-radius: 20px;
   bottom: 4vh;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  background-color: white;
 }
 
 .inline-itm{
@@ -68,5 +105,71 @@ a{
   color: black;
 }
 
-/* NAVBAR END */
+/* CARD CLASSES */
 
+.card-container{
+  flex: 1;
+  display: flex;
+  overflow: auto;
+  padding: 2vh 0 2vh 0;
+  overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+
+.card{
+  min-width: 75vw;
+  max-width: 75vw;
+  margin-left: 6.5%;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  border-radius: 20px;
+  overflow:hidden;
+}
+
+.card-img{
+  width: 100%;
+  height: auto;
+  max-height: 100vh;
+}
+
+.card-texts{
+  margin: 0 10px 10px 10px;
+  text-align: center;
+}
+
+.card-btn{
+  position: relative;
+  margin-bottom: 20px;
+  margin: 10px 0 10px 0;
+  width:100%;
+  background-color: #f07948;
+  border-radius: 20px;
+  border: hidden;
+}
+
+.card-btn, h4{
+  font-size: 1.3rem;
+  padding: 6px;
+  margin: 0;
+  font-weight: 500;
+  color: white;
+}
+
+/* GENERAL CLASSES*/
+
+.container{
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-header-s{
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+.port-title{
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom:0 ;
+}
